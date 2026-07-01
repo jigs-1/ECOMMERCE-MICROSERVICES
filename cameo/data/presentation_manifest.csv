@@ -1,0 +1,241 @@
+text,image_path,emotion,intensity,intent
+This is one of my best days in months.,data/presentation_images/happy_celebration_000.png,0,0.529,1
+I am proud of myself and grateful for this moment.,data/presentation_images/happy_celebration_001.png,0,0.41,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_002.png,0,0.479,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_003.png,0,0.296,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_004.png,0,0.514,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_005.png,0,0.165,1
+I am proud of myself and grateful for this moment.,data/presentation_images/happy_celebration_006.png,0,0.317,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_007.png,0,0.186,1
+I am proud of myself and grateful for this moment.,data/presentation_images/happy_celebration_008.png,0,0.174,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_009.png,0,0.2,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_010.png,0,0.402,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_011.png,0,0.529,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_012.png,0,0.384,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_013.png,0,0.541,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_014.png,0,0.373,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_015.png,0,0.266,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_016.png,0,0.366,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_017.png,0,0.273,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_018.png,0,0.191,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_019.png,0,0.406,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_020.png,0,0.189,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_021.png,0,0.376,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_022.png,0,0.232,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_023.png,0,0.321,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_024.png,0,0.336,1
+I am proud of myself and grateful for this moment.,data/presentation_images/happy_celebration_025.png,0,0.295,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_026.png,0,0.468,1
+I got selected and I am so happy right now.,data/presentation_images/happy_celebration_027.png,0,0.183,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_028.png,0,0.36,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_029.png,0,0.442,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_030.png,0,0.394,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_031.png,0,0.197,1
+I am proud of myself and grateful for this moment.,data/presentation_images/happy_celebration_032.png,0,0.216,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_033.png,0,0.211,1
+I am proud of myself and grateful for this moment.,data/presentation_images/happy_celebration_034.png,0,0.319,1
+I feel amazing today and everything is finally working out.,data/presentation_images/happy_celebration_035.png,0,0.456,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_036.png,0,0.466,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_037.png,0,0.286,1
+This is one of my best days in months.,data/presentation_images/happy_celebration_038.png,0,0.388,1
+I achieved my goal and I feel excited and thankful.,data/presentation_images/happy_celebration_039.png,0,0.469,1
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_000.png,1,0.886,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_001.png,1,0.74,0
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_002.png,1,0.574,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_003.png,1,0.809,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_004.png,1,0.664,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_005.png,1,0.905,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_006.png,1,0.559,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_007.png,1,0.692,0
+I cannot stop worrying and it is exhausting me.,data/presentation_images/sad_distress_008.png,1,0.597,0
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_009.png,1,0.637,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_010.png,1,0.602,0
+Everything feels heavy and I am struggling today.,data/presentation_images/sad_distress_011.png,1,0.709,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_012.png,1,0.582,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_013.png,1,0.711,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_014.png,1,0.903,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_015.png,1,0.896,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_016.png,1,0.833,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_017.png,1,0.823,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_018.png,1,0.933,0
+Everything feels heavy and I am struggling today.,data/presentation_images/sad_distress_019.png,1,0.583,0
+Everything feels heavy and I am struggling today.,data/presentation_images/sad_distress_020.png,1,0.643,0
+Everything feels heavy and I am struggling today.,data/presentation_images/sad_distress_021.png,1,0.555,0
+I cannot stop worrying and it is exhausting me.,data/presentation_images/sad_distress_022.png,1,0.623,0
+I feel alone and overwhelmed right now.,data/presentation_images/sad_distress_023.png,1,0.552,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_024.png,1,0.764,0
+I cannot stop worrying and it is exhausting me.,data/presentation_images/sad_distress_025.png,1,0.777,0
+Everything feels heavy and I am struggling today.,data/presentation_images/sad_distress_026.png,1,0.826,0
+I cannot stop worrying and it is exhausting me.,data/presentation_images/sad_distress_027.png,1,0.93,0
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_028.png,1,0.733,0
+I cannot stop worrying and it is exhausting me.,data/presentation_images/sad_distress_029.png,1,0.707,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_030.png,1,0.708,0
+"I am tired, upset, and I need support.",data/presentation_images/sad_distress_031.png,1,0.804,0
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_032.png,1,0.626,0
+Everything feels heavy and I am struggling today.,data/presentation_images/sad_distress_033.png,1,0.726,0
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_034.png,1,0.686,0
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_035.png,1,0.591,0
+I cannot stop worrying and it is exhausting me.,data/presentation_images/sad_distress_036.png,1,0.611,0
+I feel very low and I do not know how to handle this.,data/presentation_images/sad_distress_037.png,1,0.93,0
+I cannot stop worrying and it is exhausting me.,data/presentation_images/sad_distress_038.png,1,0.56,0
+Everything feels heavy and I am struggling today.,data/presentation_images/sad_distress_039.png,1,0.796,0
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_000.png,2,0.804,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_001.png,2,0.791,2
+I put in effort but I keep getting blocked.,data/presentation_images/angry_frustration_002.png,2,0.599,2
+I put in effort but I keep getting blocked.,data/presentation_images/angry_frustration_003.png,2,0.947,2
+I put in effort but I keep getting blocked.,data/presentation_images/angry_frustration_004.png,2,0.742,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_005.png,2,0.584,2
+I am frustrated because nothing is going right.,data/presentation_images/angry_frustration_006.png,2,0.85,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_007.png,2,0.741,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_008.png,2,0.757,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_009.png,2,0.93,2
+I am upset and stressed with this situation.,data/presentation_images/angry_frustration_010.png,2,0.695,2
+I am upset and stressed with this situation.,data/presentation_images/angry_frustration_011.png,2,0.916,2
+I am upset and stressed with this situation.,data/presentation_images/angry_frustration_012.png,2,0.669,2
+I am frustrated because nothing is going right.,data/presentation_images/angry_frustration_013.png,2,0.828,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_014.png,2,0.757,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_015.png,2,0.692,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_016.png,2,0.763,2
+I am upset and stressed with this situation.,data/presentation_images/angry_frustration_017.png,2,0.682,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_018.png,2,0.795,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_019.png,2,0.872,2
+I put in effort but I keep getting blocked.,data/presentation_images/angry_frustration_020.png,2,0.846,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_021.png,2,0.63,2
+I put in effort but I keep getting blocked.,data/presentation_images/angry_frustration_022.png,2,0.692,2
+I am frustrated because nothing is going right.,data/presentation_images/angry_frustration_023.png,2,0.946,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_024.png,2,0.739,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_025.png,2,0.827,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_026.png,2,0.729,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_027.png,2,0.932,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_028.png,2,0.582,2
+I am frustrated because nothing is going right.,data/presentation_images/angry_frustration_029.png,2,0.641,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_030.png,2,0.685,2
+I put in effort but I keep getting blocked.,data/presentation_images/angry_frustration_031.png,2,0.8,2
+I am upset and stressed with this situation.,data/presentation_images/angry_frustration_032.png,2,0.886,2
+I put in effort but I keep getting blocked.,data/presentation_images/angry_frustration_033.png,2,0.914,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_034.png,2,0.87,2
+I am frustrated because nothing is going right.,data/presentation_images/angry_frustration_035.png,2,0.884,2
+I am frustrated because nothing is going right.,data/presentation_images/angry_frustration_036.png,2,0.914,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_037.png,2,0.741,2
+I am angry and exhausted with these repeated failures.,data/presentation_images/angry_frustration_038.png,2,0.724,2
+This keeps breaking and I feel very annoyed.,data/presentation_images/angry_frustration_039.png,2,0.585,2
+"No big emotions today, just routine work.",data/presentation_images/neutral_neutral_000.png,3,0.389,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_001.png,3,0.467,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_002.png,3,0.548,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_003.png,3,0.295,3
+"No big emotions today, just routine work.",data/presentation_images/neutral_neutral_004.png,3,0.492,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_005.png,3,0.433,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_006.png,3,0.544,3
+It is an average day and I am doing okay.,data/presentation_images/neutral_neutral_007.png,3,0.297,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_008.png,3,0.289,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_009.png,3,0.49,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_010.png,3,0.408,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_011.png,3,0.38,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_012.png,3,0.498,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_013.png,3,0.258,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_014.png,3,0.338,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_015.png,3,0.479,3
+It is an average day and I am doing okay.,data/presentation_images/neutral_neutral_016.png,3,0.328,3
+"No big emotions today, just routine work.",data/presentation_images/neutral_neutral_017.png,3,0.5,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_018.png,3,0.523,3
+It is an average day and I am doing okay.,data/presentation_images/neutral_neutral_019.png,3,0.519,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_020.png,3,0.495,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_021.png,3,0.376,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_022.png,3,0.289,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_023.png,3,0.407,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_024.png,3,0.512,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_025.png,3,0.433,3
+I am just sharing a regular update.,data/presentation_images/neutral_neutral_026.png,3,0.302,3
+"No big emotions today, just routine work.",data/presentation_images/neutral_neutral_027.png,3,0.436,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_028.png,3,0.417,3
+It is an average day and I am doing okay.,data/presentation_images/neutral_neutral_029.png,3,0.455,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_030.png,3,0.417,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_031.png,3,0.515,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_032.png,3,0.325,3
+It is an average day and I am doing okay.,data/presentation_images/neutral_neutral_033.png,3,0.263,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_034.png,3,0.402,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_035.png,3,0.258,3
+Today was normal and nothing unusual happened.,data/presentation_images/neutral_neutral_036.png,3,0.383,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_037.png,3,0.542,3
+Things are steady and mostly fine.,data/presentation_images/neutral_neutral_038.png,3,0.404,3
+It is an average day and I am doing okay.,data/presentation_images/neutral_neutral_039.png,3,0.386,3
+I need advice because this is making me nervous.,data/presentation_images/anxious_seeking_help_000.png,4,0.873,4
+I need advice because this is making me nervous.,data/presentation_images/anxious_seeking_help_001.png,4,0.927,4
+I need advice because this is making me nervous.,data/presentation_images/anxious_seeking_help_002.png,4,0.901,4
+Can someone support me with this? I am feeling uncertain.,data/presentation_images/anxious_seeking_help_003.png,4,0.919,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_004.png,4,0.886,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_005.png,4,0.717,4
+I am stressed and looking for practical help.,data/presentation_images/anxious_seeking_help_006.png,4,0.727,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_007.png,4,0.818,4
+I am stressed and looking for practical help.,data/presentation_images/anxious_seeking_help_008.png,4,0.579,4
+Can someone support me with this? I am feeling uncertain.,data/presentation_images/anxious_seeking_help_009.png,4,0.864,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_010.png,4,0.926,4
+Can someone support me with this? I am feeling uncertain.,data/presentation_images/anxious_seeking_help_011.png,4,0.607,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_012.png,4,0.937,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_013.png,4,0.849,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_014.png,4,0.709,4
+I am stressed and looking for practical help.,data/presentation_images/anxious_seeking_help_015.png,4,0.615,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_016.png,4,0.615,4
+I am stressed and looking for practical help.,data/presentation_images/anxious_seeking_help_017.png,4,0.948,4
+I am stressed and looking for practical help.,data/presentation_images/anxious_seeking_help_018.png,4,0.686,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_019.png,4,0.693,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_020.png,4,0.839,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_021.png,4,0.685,4
+I am stressed and looking for practical help.,data/presentation_images/anxious_seeking_help_022.png,4,0.726,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_023.png,4,0.704,4
+I need advice because this is making me nervous.,data/presentation_images/anxious_seeking_help_024.png,4,0.8,4
+I need advice because this is making me nervous.,data/presentation_images/anxious_seeking_help_025.png,4,0.934,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_026.png,4,0.944,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_027.png,4,0.939,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_028.png,4,0.584,4
+Can someone support me with this? I am feeling uncertain.,data/presentation_images/anxious_seeking_help_029.png,4,0.566,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_030.png,4,0.658,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_031.png,4,0.878,4
+Can someone support me with this? I am feeling uncertain.,data/presentation_images/anxious_seeking_help_032.png,4,0.712,4
+I need advice because this is making me nervous.,data/presentation_images/anxious_seeking_help_033.png,4,0.918,4
+I need advice because this is making me nervous.,data/presentation_images/anxious_seeking_help_034.png,4,0.748,4
+Can someone support me with this? I am feeling uncertain.,data/presentation_images/anxious_seeking_help_035.png,4,0.586,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_036.png,4,0.87,4
+I feel anxious and I need help deciding what to do next.,data/presentation_images/anxious_seeking_help_037.png,4,0.72,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_038.png,4,0.658,4
+I am worried and could use some guidance.,data/presentation_images/anxious_seeking_help_039.png,4,0.804,4
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_000.png,5,0.583,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_001.png,5,0.577,5
+I am grateful for the support I received today.,data/presentation_images/hopeful_gratitude_002.png,5,0.732,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_003.png,5,0.948,5
+I am thankful and optimistic after this progress.,data/presentation_images/hopeful_gratitude_004.png,5,0.921,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_005.png,5,0.799,5
+I am grateful for the support I received today.,data/presentation_images/hopeful_gratitude_006.png,5,0.761,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_007.png,5,0.925,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_008.png,5,0.655,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_009.png,5,0.631,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_010.png,5,0.801,5
+"This kindness helped me a lot, and I feel hopeful.",data/presentation_images/hopeful_gratitude_011.png,5,0.854,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_012.png,5,0.728,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_013.png,5,0.658,5
+I am grateful for the support I received today.,data/presentation_images/hopeful_gratitude_014.png,5,0.948,5
+I am grateful for the support I received today.,data/presentation_images/hopeful_gratitude_015.png,5,0.556,5
+"This kindness helped me a lot, and I feel hopeful.",data/presentation_images/hopeful_gratitude_016.png,5,0.77,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_017.png,5,0.756,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_018.png,5,0.924,5
+I am grateful for the support I received today.,data/presentation_images/hopeful_gratitude_019.png,5,0.813,5
+I am thankful and optimistic after this progress.,data/presentation_images/hopeful_gratitude_020.png,5,0.813,5
+"This kindness helped me a lot, and I feel hopeful.",data/presentation_images/hopeful_gratitude_021.png,5,0.884,5
+I am thankful and optimistic after this progress.,data/presentation_images/hopeful_gratitude_022.png,5,0.938,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_023.png,5,0.825,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_024.png,5,0.687,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_025.png,5,0.712,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_026.png,5,0.943,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_027.png,5,0.556,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_028.png,5,0.722,5
+I am grateful for the support I received today.,data/presentation_images/hopeful_gratitude_029.png,5,0.584,5
+I am thankful and optimistic after this progress.,data/presentation_images/hopeful_gratitude_030.png,5,0.898,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_031.png,5,0.79,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_032.png,5,0.568,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_033.png,5,0.613,5
+I am thankful and optimistic after this progress.,data/presentation_images/hopeful_gratitude_034.png,5,0.551,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_035.png,5,0.935,5
+"This kindness helped me a lot, and I feel hopeful.",data/presentation_images/hopeful_gratitude_036.png,5,0.679,5
+I am grateful for the support I received today.,data/presentation_images/hopeful_gratitude_037.png,5,0.936,5
+I really appreciate this help and I feel positive now.,data/presentation_images/hopeful_gratitude_038.png,5,0.637,5
+"Thank you, I feel hopeful about what comes next.",data/presentation_images/hopeful_gratitude_039.png,5,0.55,5

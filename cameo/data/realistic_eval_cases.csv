@@ -1,0 +1,13 @@
+text,image_path,expected_emotion,expected_intent,notes
+"I stayed up all night worrying that I will mess this up again.","data/presentation_images/anxious_seeking_help_011.png",anxious,seeking_help,Work anxiety with explicit need for help
+"My chest feels heavy and I do not want to talk to anyone right now.","data/presentation_images/sad_distress_014.png",sad,distress,Low mood and withdrawal
+"The release failed again and I am furious that we are still blocked.","data/presentation_images/angry_frustration_021.png",angry,frustration,Repeated failure and anger
+"I finally got the offer letter and I cannot stop smiling.","data/presentation_images/happy_celebration_018.png",happy,celebration,Clear success event
+"Nothing dramatic happened today. I just finished errands and had dinner.","data/presentation_images/neutral_neutral_023.png",neutral,neutral,Routine update
+"Your message really helped me settle down. I feel hopeful again.","data/presentation_images/hopeful_gratitude_020.png",hopeful,gratitude,Relief and gratitude
+"I am overwhelmed by deadlines and need someone to help me decide what to do first.","data/presentation_images/anxious_seeking_help_032.png",anxious,seeking_help,Practical support request
+"I feel completely alone and I do not know how much more of this I can take.","data/presentation_images/sad_distress_029.png",sad,distress,High-distress expression
+"I keep redoing the same task because every version comes back broken.","data/presentation_images/angry_frustration_008.png",angry,frustration,Frustration without explicit anger word
+"I am proud of how far I have come this year and I want to celebrate this moment.","data/presentation_images/happy_celebration_030.png",happy,celebration,Reflective celebration
+"Things are steady now. I am not excited or upset, just moving through the day.","data/presentation_images/neutral_neutral_010.png",neutral,neutral,Low-arousal neutral
+"I appreciate everyone who checked in on me today. It reminded me that things can improve.","data/presentation_images/hopeful_gratitude_011.png",hopeful,gratitude,Gratitude with hope

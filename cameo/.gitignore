@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.venv313/
+.tmp/
+*.pt
+*.onnx
+*.ckpt
+*.log
+ui/node_modules/
+ui/dist/

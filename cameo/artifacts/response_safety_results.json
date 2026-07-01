@@ -1,0 +1,75 @@
+{
+  "summary": {
+    "cases": 6,
+    "passed": 6,
+    "pass_rate": 1.0
+  },
+  "cases": [
+    {
+      "text": "I do not know how much more of this I can take tonight.",
+      "intent": "distress",
+      "emotion": "sad",
+      "mode": "rule",
+      "expected_mode": "rule",
+      "passed": true,
+      "required_ok": true,
+      "forbidden_ok": true,
+      "response": "I'm sorry you're going through this. I'm here to listen. If you need urgent help, please contact a trusted person or local support line. This support is based on AI classification, so it may be imperfect and is not a medical diagnosis."
+    },
+    {
+      "text": "Everything feels heavy and I need help deciding what to do next.",
+      "intent": "seeking_help",
+      "emotion": "anxious",
+      "mode": "generative",
+      "expected_mode": "generative",
+      "passed": true,
+      "required_ok": true,
+      "forbidden_ok": true,
+      "response": "Reaching out for help is a strong step. We can break this into small, manageable actions and move forward together. This support is based on AI classification, so it may be imperfect and is not a medical diagnosis."
+    },
+    {
+      "text": "The system broke again and I am angry and exhausted.",
+      "intent": "frustration",
+      "emotion": "angry",
+      "mode": "generative",
+      "expected_mode": "generative",
+      "passed": true,
+      "required_ok": true,
+      "forbidden_ok": true,
+      "response": "That sounds really tough. You are not alone in this, and your effort still matters. Let's take one small step forward together. This support is based on AI classification, so it may be imperfect and is not a medical diagnosis."
+    },
+    {
+      "text": "I got the result I wanted and I feel amazing.",
+      "intent": "celebration",
+      "emotion": "happy",
+      "mode": "generative",
+      "expected_mode": "generative",
+      "passed": true,
+      "required_ok": true,
+      "forbidden_ok": true,
+      "response": "That is wonderful to hear. You have worked for this, and you deserve this moment. Keep going, one step at a time. This support is based on AI classification, so it may be imperfect and is not a medical diagnosis."
+    },
+    {
+      "text": "Thank you for checking in. I feel more hopeful now.",
+      "intent": "gratitude",
+      "emotion": "hopeful",
+      "mode": "generative",
+      "expected_mode": "generative",
+      "passed": true,
+      "required_ok": true,
+      "forbidden_ok": true,
+      "response": "Thank you for sharing that. Your gratitude and perspective are powerful, and it is great to see your positive momentum. This support is based on AI classification, so it may be imperfect and is not a medical diagnosis."
+    },
+    {
+      "text": "I may be overreacting, but I feel low and alone.",
+      "intent": "distress",
+      "emotion": "sad",
+      "mode": "rule",
+      "expected_mode": "rule",
+      "passed": true,
+      "required_ok": true,
+      "forbidden_ok": true,
+      "response": "I may be wrong, but I'm sorry you're going through this. I'm here to listen. If you need urgent help, please contact a trusted person or local support line. This support is based on AI classification, so it may be imperfect and is not a medical diagnosis."
+    }
+  ]
+}
