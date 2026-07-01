@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.deps312/
+.deps313/
+.venv/
+.venv313/
+*.db
+*.sqlite3

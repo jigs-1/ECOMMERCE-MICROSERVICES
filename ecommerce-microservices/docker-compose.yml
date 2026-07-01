@@ -1,0 +1,158 @@
+version: "3.9"
+
+services:
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api-gateway:
+    build:
+      context: .
+      args:
+        SERVICE_MODULE: gateway.app.main
+        SERVICE_PORT: 8000
+    environment:
+      APP_NAME: api-gateway
+      SERVICE_PORT: 8000
+      JWT_SECRET: super-secret-key
+      JWT_ALGORITHM: HS256
+      USER_SERVICE_URL: http://user-service:8001
+      PRODUCT_SERVICE_URL: http://product-service:8002
+      ORDER_SERVICE_URL: http://order-service:8003
+      NOTIFICATION_SERVICE_URL: http://notification-service:8004
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    depends_on:
+      user-service:
+        condition: service_healthy
+      product-service:
+        condition: service_healthy
+      order-service:
+        condition: service_healthy
+      notification-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  user-service:
+    build:
+      context: .
+      args:
+        SERVICE_MODULE: services.user_service.app.main
+        SERVICE_PORT: 8001
+    environment:
+      APP_NAME: user-service
+      SERVICE_PORT: 8001
+      DATABASE_URL: sqlite:////data/users.db
+      JWT_SECRET: super-secret-key
+      JWT_ALGORITHM: HS256
+      REDIS_URL: redis://redis:6379/0
+    restart: unless-stopped
+    volumes:
+      - user-data:/data
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8001/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  product-service:
+    build:
+      context: .
+      args:
+        SERVICE_MODULE: services.product_service.app.main
+        SERVICE_PORT: 8002
+    environment:
+      APP_NAME: product-service
+      SERVICE_PORT: 8002
+      DATABASE_URL: sqlite:////data/products.db
+      JWT_SECRET: super-secret-key
+      JWT_ALGORITHM: HS256
+      REDIS_URL: redis://redis:6379/0
+    restart: unless-stopped
+    volumes:
+      - product-data:/data
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8002/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  order-service:
+    build:
+      context: .
+      args:
+        SERVICE_MODULE: services.order_service.app.main
+        SERVICE_PORT: 8003
+    environment:
+      APP_NAME: order-service
+      SERVICE_PORT: 8003
+      DATABASE_URL: sqlite:////data/orders.db
+      JWT_SECRET: super-secret-key
+      JWT_ALGORITHM: HS256
+      REDIS_URL: redis://redis:6379/0
+      USER_SERVICE_URL: http://user-service:8001
+      PRODUCT_SERVICE_URL: http://product-service:8002
+    restart: unless-stopped
+    volumes:
+      - order-data:/data
+    depends_on:
+      redis:
+        condition: service_healthy
+      user-service:
+        condition: service_healthy
+      product-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8003/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  notification-service:
+    build:
+      context: .
+      args:
+        SERVICE_MODULE: services.notification_service.app.main
+        SERVICE_PORT: 8004
+    environment:
+      APP_NAME: notification-service
+      SERVICE_PORT: 8004
+      DATABASE_URL: sqlite:////data/notifications.db
+      JWT_SECRET: super-secret-key
+      JWT_ALGORITHM: HS256
+      REDIS_URL: redis://redis:6379/0
+    restart: unless-stopped
+    volumes:
+      - notification-data:/data
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8004/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  user-data:
+  product-data:
+  order-data:
+  notification-data:
