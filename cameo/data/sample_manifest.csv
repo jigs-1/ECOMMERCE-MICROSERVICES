@@ -1,4 +1,0 @@
-text,image_path,emotion,intensity,intent
-"I feel great about today!",sample_images/happy.jpg,0,0.2,1
-"This is too much, I can't handle it",sample_images/distress.jpg,1,0.9,0
-"Just another normal post",sample_images/neutral.jpg,3,0.3,3
